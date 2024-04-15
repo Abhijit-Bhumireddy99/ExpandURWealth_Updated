@@ -9,3 +9,5 @@ npm run devStart => to start the website local host server (port :3000)
 sudo lsof -i :3000 => to check any ongoing processes on local host server port :3000
 
 kill -9 Process_ID => to kill or delete the current process from the local host server port
+
+http://127.0.0.1:3000/ => to view website
